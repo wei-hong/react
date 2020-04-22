@@ -1,0 +1,11 @@
+.Header {
+  width: 300px;
+  margin: 0 auto;
+}
+.clearList {
+  float: right;
+  text-decoration: none;
+  font-size: 16px;
+  color: tomato;
+  margin: 5px 0;
+}

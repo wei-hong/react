@@ -1,0 +1,28 @@
+.TodoInput {
+  width: 100%;
+  height: 30px;
+  background: #b3dced; /* Old browsers */
+  background: -moz-linear-gradient(
+    top,
+    #b3dced 0%,
+    #29b8e5 50%,
+    #bce0ee 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    #b3dced 0%,
+    #29b8e5 50%,
+    #bce0ee 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #b3dced 0%, #29b8e5 50%, #bce0ee 100%);
+  border-radius: 5px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  box-sizing: border-box;
+  margin: 5px 0;
+  font-family: "Big Shoulders Text", cursive;
+  outline: none;
+}
